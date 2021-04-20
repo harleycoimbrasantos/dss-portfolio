@@ -1,0 +1,54 @@
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-details text-uppercase " color-on-scroll="400">
+  <div class="container-fluid">
+    <a class="navbar-brand menu-title" href="#">
+      <img src="assets/img/projects/ico-logo.svg" alt="" width="45" height="38">
+      {{'Menu.Title' | translate}}
+    </a>
+    <button class="navbar-toggler btn-menu" type="button" (click)="toggleNavbarCollapsing()">
+      <i id="close-menu" class="fas fa-times" *ngIf="!isNavbarCollapsed"></i>
+      <span class="navbar-toggler-icon" *ngIf="isNavbarCollapsed"></span>
+    </button>
+
+
+    <div class="navbar-collapse collapse justify-content-center" [class.collapse]="isNavbarCollapsed">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#about">{{'Menu.About' | translate }}</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#experience">{{'Menu.Experience' | translate}}</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#education">{{'Menu.Education' | translate}}</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#skills">{{'Menu.Skills' | translate}}</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#projects">{{'Menu.Projects' | translate}}</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">{{'Menu.Contact' | translate}}</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="btn-group justify-content-end" dropdown>
+      <button id="button-basic" dropdownToggle type="button"
+        class="btn bg-details dropdown-toggle text-white border border-white font-weight-bold"
+        aria-controls="dropdown-basic">
+        <img class="mr-2" src="assets/img/logo-{{translate.getDefaultLang()}}.png" [style.width.px]="50"
+          [style.margin.px]="4">
+      </button>
+      <ul id="dropdown-basic" *dropdownMenu class="dropdown-menu bg-details " role="menu" style="min-width: 0rem;"
+        aria-labelledby="button-basic">
+        <li role="menuitem" *ngFor="let language of translate.getLangs()" (click)="changeLangueage(language)">
+          <div class="dropdown-item">
+            <img class="mr-2" src="assets/img/logo-{{language}}.png" [style.width.px]="50" [style.margin.px]="4">
+          </div>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</nav>

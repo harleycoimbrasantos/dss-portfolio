@@ -1,0 +1,30 @@
+select {
+  width: 98px;
+  height: 38px;
+}
+
+img.logo-en /* Se for impar fica com fundo verde */ {
+  width: 98px;
+  height: 38px;
+  background: url("/assets/img/logo-en.png");
+}
+
+#close-menu{
+  font-size: 1.8rem;
+}
+
+.btn-menu{
+  width: 3em;
+    height: 3rem;
+}
+
+@media screen and (max-width: 992px) {
+  .menu-title {
+    display: none;
+  }
+
+  .navbar-collapse{
+    margin-top: 20px;
+  }
+}
+
