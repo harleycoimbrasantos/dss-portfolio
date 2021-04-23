@@ -220,6 +220,22 @@
       {
         "Name": "JavaScript",
         "Icon": "assets/img/skill-javascript.png"
+      },
+      {
+        "Name": "Node JS",
+        "Icon": "assets/img/skill-node.png"
+      },
+      {
+        "Name": "SQL Server",
+        "Icon": "assets/img/skill-sqlserver.png"
+      },
+      {
+        "Name": "Delphi",
+        "Icon": "assets/img/skill-delphi.png"
+      },
+      {
+        "Name": "Oracle",
+        "Icon": "assets/img/skill-oracle.png"
       }
     ]
   },
