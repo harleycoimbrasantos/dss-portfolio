@@ -61,7 +61,7 @@
       },
       {
         "Company": {
-          "Name": "IT Green Serviços em Tecnologias (Grupo Protege)",
+          "Name": "IT Green Serviços em Tecnologias / Grupo Protege",
           "City": "São Paulo - SP"
         },
         "Employment": "Analista Desenvolvedor Senior",
@@ -70,7 +70,6 @@
         "Technologies": [
           "C#",
           "SQL SERVER",
-          "TFS",
           "HTML",
           "CSS",
           "JavaScript",
@@ -82,19 +81,47 @@
           "Angular",
           "MVC",
           "MySQL",
-          "Delphi"
+          "Delphi",
+          "Entity Framework"
         ]
       },
       {
         "Company": {
-          "Name": "Editora Atlas (Grupo Gen)",
+          "Name": "Editora Atlas / Grupo Gen",
           "City": "São Paulo - SP"
         },
         "Employment": "Analista Desenvolvedor Pleno",
         "Duration": "Fev 2012 - Fev 2016",
-        "Description": "nicialmente entrei na equipe de projetos no seguimento de serviços aeroportuários um ERP da PROAIR uma das empresas do Grupo Protege, nos 2 anos que fiz parte da equipe foram entregues 7 projetos , Na atualidade faço parte da equipe de sustentação de sistemas em diversas tecnologias na área de vigilância patrimonial."
-      }
-    ]
+        "Description": "Antiga Editora Atlas, Fui contratado para manutenção de um CRM em Delphi+Oracle e os micros serviços de integrações do ERP Protheus(TOVTS) com o e-commerce em PHP. No segundo ano tive participação fundamental na migração de todos os serviços para .NET e na migração do sistema que gerenciava as demandas de service desk que era em Delphi para C# .NET MVC + Entity. No terceiro ano fiquei responsável pelas integrações do novo e-commerce que seria na plataforma Magento e todas integrações seriam em PHP o que foi um sucesso, nesse mesmo período já estava migrando o CRM para .NET. No quarto ano a empresa foi adquirida pelo GRUPO GEN, tive participação fundamental na migração de dados para unificação de dados, essa unificação de dados foi utilizada ferramentas do próprio Oracle.",
+        "Technologies": [
+          "C#",
+          "ORACLE",
+          "JavaScript",
+          "BOOTSTRAP",
+          "jQuery",
+          "SubVersion",
+          "MVC",
+          "MySQL",
+          "Delphi",
+          "Magento",
+          "PHP",
+          "Entity Framework"
+        ]
+      },
+      {
+          "Company": {
+            "Name": "GRUPO UNIS",
+            "City": "São Paulo - SP"
+          },
+          "Employment": "Analista Desenvolvedor Pleno",
+          "Duration": "Jun 2011 - Fev 2012",
+          "Description": "Manutenção e melhorias de sistemas de controle patrimonial.",
+          "Technologies": [
+            "SQL SERVER",
+            "Delphi"
+          ]
+        }
+      ]
   },
   "Education": {
     "Title": "Educação",
