@@ -66,7 +66,24 @@
         },
         "Employment": "Analista Desenvolvedor Senior",
         "Duration": "Março 2016 - Jun 2019",
-        "Description": "nicialmente entrei na equipe de projetos no seguimento de serviços aeroportuários um ERP da PROAIR uma das empresas do Grupo Protege, nos 2 anos que fiz parte da equipe foram entregues 7 projetos , Na atualidade faço parte da equipe de sustentação de sistemas em diversas tecnologias na área de vigilância patrimonial."
+        "Description": "nicialmente entrei na equipe de projetos no seguimento de serviços aeroportuários um ERP da PROAIR uma das empresas do Grupo Protege, nos 2 anos que fiz parte da equipe foram entregues 7 projetos , Na atualidade faço parte da equipe de sustentação de sistemas em diversas tecnologias na área de vigilância patrimonial.",
+        "Technologies": [
+          "C#",
+          "SQL SERVER",
+          "TFS",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "BOOTSTRAP",
+          "Node.JS",
+          "jQuery",
+          "Git",
+          "Cordova",
+          "Angular",
+          "MVC",
+          "MySQL",
+          "Delphi"
+        ]
       },
       {
         "Company": {
