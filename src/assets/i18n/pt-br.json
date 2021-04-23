@@ -48,7 +48,7 @@
         },
         "Employment": "Desenvolvedor .NET Senior",
         "Duration": "Jun 2019 - Atualmente",
-        "Description": "Atuando alocado no Banco Panameticano em uma equipe ágil utilizando SCRUM, realizando melhorias e desenvolvendo Web Sites, Web Services, APIs. Utilizando .Net MVC, SQL SERVE, TFS e IIS.",
+        "Description": "Atuando alocado no Banco Panamericano em uma equipe ágil utilizando SCRUM, realizando melhorias e manutenções em soluções para empréstimos consignados",
         "Technologies": [
           "C#",
           "SQL SERVER",
@@ -56,7 +56,10 @@
           "HTML",
           "CSS",
           "JavaScript",
-          "BOOTSTRAP"
+          "BOOTSTRAP",
+          "WebForms",
+          "MVC",
+          "SCRUM"
         ]
       },
       {
