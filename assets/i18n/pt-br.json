@@ -169,32 +169,11 @@
       {
         "Name": "Análise e Desenvolvimento de Sistemas",
         "Institution": {
-          "Name": "FATEC Praia Grande",
-          "City": "Praia Grande - SP"
+          "Name": "UNIVERSIDADE CIDADE DE SÃO PAULO",
+          "City": "São Paulo - SP"
         },
-        "Duration": "Out 2014 - Jun 2018",
+        "Duration": "2007 - 2009",
         "Technologies": [
-          "Java",
-          "PHP",
-          "Javascript",
-          "CSS",
-          "Oracle"
-        ]
-      },
-      {
-        "Name": "Técnico Em Informática",
-        "Institution": {
-          "Name": "Etec Adolpho Berezin",
-          "City": "Mongaguá - SP"
-        },
-        "Duration": "Jun 2010 - Dez 2011",
-        "Technologies": [
-          "Java",
-          "Visual Basic",
-          "MySQL",
-          "HTML",
-          "CSS",
-          "JavaScript"
         ]
       }
     ]
