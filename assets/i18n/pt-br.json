@@ -254,6 +254,16 @@
         "BtnSiteLink": "https://harleycoimbrasantos.github.io/dss-portfolio/",
         "BtnCodeTitle": "Codigo Fonte",
         "BtnCodeLink": "https://github.com/harleycoimbrasantos/dss-portfolio"
+      },
+      {
+        "Title": "Sistema Integrado Web",
+        "Name": "BlueManager",
+        "Image": "assets/img/projects/personal-portfolio.png",
+        "Description": "Sistema Integrado Web",
+        "BtnSiteTitle": "Visitar",
+        "BtnSiteLink": "http://webbluemanager.gear.host/",
+        "BtnCodeTitle": "Codigo Fonte *em breve*",
+        "BtnCodeLink": ""
       }
     ]
   },
