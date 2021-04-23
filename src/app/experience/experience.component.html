@@ -23,6 +23,9 @@
             </div>
             <h6 class="section-text text-uppercase">{{job.Employment}}</h6>
             <p class="text-justify">{{job.Description}}</p>
+            <div class="badge bg-dark text-white text-uppercase mr-2" *ngFor="let tech of job.Technologies">
+              {{tech}}
+            </div>
           </li>
         </ul>
       </div>
