@@ -11,7 +11,7 @@
   },
   "Introduction":
   {
-    "Employment": "Developer .NET"
+    "Employment": "Senior Developer"
   },
   "About":{
     "Title": "About",
@@ -39,26 +39,131 @@
       "Value": "English, Protugues (BR)"
     }
   },
-  "Experience":{
+  "Experience": {
     "Title": "Professional Experience",
     "Jobs": [
       {
         "Company": {
-          "Name": "Função Sistemas",
+          "Name": "Função Sistemas / Banco Panamericano",
           "City": "São Paulo - SP"
         },
-        "Employment": "Developer .NET",
-        "Duration": "Jun 2019 - At the Moment",
-        "Description": "Currently working agile team using SCRUM, making improvements and developing Web Sites, Web Services, APIs. using .Net MVC, SQL SERVE, TFS and IIS."
+        "Employment": "Desenvolvedor .NET Senior",
+        "Duration": "Jun 2019 - Atualmente",
+        "Description": "Atuando alocado no Banco Panamericano em uma equipe ágil utilizando SCRUM, realizando melhorias e manutenções em soluções para empréstimos consignados",
+        "Technologies": [
+          "C#",
+          "SQL SERVER",
+          "TFS",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "BOOTSTRAP",
+          "WebForms",
+          "MVC",
+          "SCRUM"
+        ]
       },
       {
         "Company": {
-          "Name": "T2S Tecnologia, Soluções e Sistemas",
-          "City": "Santos - SP"
+          "Name": "IT Green Serviços em Tecnologias / Grupo Protege",
+          "City": "São Paulo - SP"
         },
-        "Employment": "Junior Systems Analyst",
-        "Duration": "Oct 2016 - Jun 2019",
-        "Description": "I've worked with project, system improvements and solving issues in support team, serving large Brazilian terminals, using various technologies like, Java, Groovy, C#,.NET, Android, Ireport, Oracle, Postgres, AngularJS and others."
+        "Employment": "Analista Desenvolvedor Senior",
+        "Duration": "Março 2016 - Jun 2019",
+        "Description": "nicialmente entrei na equipe de projetos no seguimento de serviços aeroportuários um ERP da PROAIR uma das empresas do Grupo Protege, nos 2 anos que fiz parte da equipe foram entregues 7 projetos , Na atualidade faço parte da equipe de sustentação de sistemas em diversas tecnologias na área de vigilância patrimonial.",
+        "Technologies": [
+          "C#",
+          "SQL SERVER",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "BOOTSTRAP",
+          "Node.JS",
+          "jQuery",
+          "Git",
+          "Cordova",
+          "Angular",
+          "MVC",
+          "MySQL",
+          "Delphi",
+          "Entity Framework"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "Editora Atlas / Grupo Gen",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Analista Desenvolvedor Pleno",
+        "Duration": "Fev 2012 - Fev 2016",
+        "Description": "Antiga Editora Atlas, Fui contratado para manutenção de um CRM em Delphi+Oracle e os micros serviços de integrações do ERP Protheus(TOVTS) com o e-commerce em PHP. No segundo ano tive participação fundamental na migração de todos os serviços para .NET e na migração do sistema que gerenciava as demandas de service desk que era em Delphi para C# .NET MVC + Entity. No terceiro ano fiquei responsável pelas integrações do novo e-commerce que seria na plataforma Magento e todas integrações seriam em PHP o que foi um sucesso, nesse mesmo período já estava migrando o CRM para .NET. No quarto ano a empresa foi adquirida pelo GRUPO GEN, tive participação fundamental na migração de dados para unificação de dados, essa unificação de dados foi utilizada ferramentas do próprio Oracle.",
+        "Technologies": [
+          "C#",
+          "ORACLE",
+          "JavaScript",
+          "BOOTSTRAP",
+          "jQuery",
+          "SubVersion",
+          "MVC",
+          "MySQL",
+          "Delphi",
+          "Magento",
+          "PHP",
+          "Entity Framework"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "GRUPO UNIS",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Analista Desenvolvedor Pleno",
+        "Duration": "Jun 2011 - Fev 2012",
+        "Description": "Manutenção e melhorias de sistemas de controle patrimonial.",
+        "Technologies": 
+        [
+          "SQL SERVER",
+          "Delphi"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "Quality Tecnologia e Sistemas",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Programador Pleno",
+        "Duration": "Maio 2010 - Jun 2011",
+        "Description": "Manutenção de ERP de controle acadêmico.",
+        "Technologies": [
+          "Firebird",
+          "Delphi"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "ALSOFT INFORMATICA",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Programador Pleno",
+        "Duration": "Jun 2009 - Maio 2011",
+        "Description": "Desenvolvimento e manutenção de sistemas ERP no seguimento varejista.",
+        "Technologies": [
+          "SQL SERVER",
+          "Delphi"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "ENGRO INSTRUMENTOS ELETRICOS",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Estágio em Programação",
+        "Duration": "Abr 2008 - Jun 2009",
+        "Description": "Desenvolvimento e manutenção de sistemas ERP no seguimento varejista.",
+        "Technologies": [
+          "ORACLE",
+          "Delphi"
+        ]
       }
     ]
   },
