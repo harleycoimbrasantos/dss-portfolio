@@ -16,23 +16,23 @@
   "About":{
     "Title": "About",
     "AboutMe": "About Me",
-    "AboutText": "Since I was younger, I've looked for a job different of people arround me, and when I start to learn code I identified myself with IT area, and I kept developing new skills, meeting new people and taking advantage of new opportunities. Now, I always work with a smile on my face and love in the eyes. To learn more about me, keep exploring my site or reach out directly.",
+    "AboutText": "Working for more than 10 years in the IT area of ​​small and medium companies, performing functions as a developer, system analyst, requirements analyst and team leader, always looking for and implementing methodologies and technologies for each type of work environment and work situation. according to the reality of the company.",
     "BasicInformation": "Basic Information",
     "DateBirth": {
       "Title": "Date of Birth",
-      "Value": "January, 14 1993"
+      "Value": "March, 05 1983"
     },
     "Email": {
       "Title": "Email",
-      "Value": "david.xvc93@gmail.com"
+      "Value": "harleycoimbrasantos@gmail.com"
     },
     "MobileNo": {
       "Title": "Mobile Nº",
-      "Value": "+55 (13) 98106-5732"
+      "Value": "+55 (11) 0000-0000"
     },
     "Address": {
       "Title": "Address",
-      "Value": "Praia Grande - SP"
+      "Value": "Atibaia - SP"
     },
     "Language": {
       "Title": "Language",
@@ -68,25 +68,15 @@
       {
         "Name": "Analysis and systems development",
         "Institution": {
-          "Name": "FATEC Praia Grande",
-          "City": "Praia Grande - SP"
+          "Name": "UNIVERSIDADE CIDADE DE SÃO PAULO",
+          "City": "São Paulo - SP"
         },
-        "Duration": "Oct 2014 - Jun 2018",
-        "Technologies": ["Java", "PHP", "Javascript", "CSS", "Oracle"]
-      },
-      {
-        "Name": "Computer technician",
-        "Institution": {
-          "Name": "Etec Adolpho Berezin",
-          "City": "Mongaguá - SP"
-        },
-        "Duration": "Jun 2010 - Dez 2011",
-        "Technologies": ["Java", "Visual Basic", "MySQL", "HTML", "CSS", "JavaScript"]
+        "Duration": "2007 - 2009"
       }
     ]
   },
   "Skills": {
-    "Title": "Habilidades",
+    "Title": "Skills",
     "Items": [
       {
         "Name": "Microsoft .NET",
@@ -127,6 +117,22 @@
       {
         "Name": "JavaScript",
         "Icon": "assets/img/skill-javascript.png"
+      },
+      {
+        "Name": "Node JS",
+        "Icon": "assets/img/skill-node.png"
+      },
+      {
+        "Name": "SQL Server",
+        "Icon": "assets/img/skill-sqlserver.png"
+      },
+      {
+        "Name": "Delphi",
+        "Icon": "assets/img/skill-delphi.png"
+      },
+      {
+        "Name": "Oracle",
+        "Icon": "assets/img/skill-oracle.png"
       }
     ]
   },
@@ -139,9 +145,9 @@
         "Image": "assets/img/projects/personal-portfolio.png",
         "Description": "Personal portfolio was developed to divulge my skills and projects.",
         "BtnSiteTitle": "Visit",
-        "BtnSiteLink": "https://davidsouzasantos.github.io/dss-portfolio/",
+        "BtnSiteLink": "https://harleycoimbrasantos.github.io/dss-portfolio/",
         "BtnCodeTitle": "Source Code",
-        "BtnCodeLink": "https://github.com/DavidSouzaSantos/dss-portfolio"
+        "BtnCodeLink": "https://github.com/harleycoimbrasantos/dss-portfolio"
       }
     ]
   },
