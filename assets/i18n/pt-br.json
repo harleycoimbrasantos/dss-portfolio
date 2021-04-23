@@ -48,8 +48,7 @@
         },
         "Employment": "Desenvolvedor .NET Senior",
         "Duration": "Jun 2019 - Atualmente",
-        "Description": "Atuando alocado no Banco Panameticano em uma equipe ágil utilizando SCRUM, realizando melhorias e desenvolvendo Web Sites, Web Services, APIs. Utilizando .Net MVC, SQL SERVE, TFS e IIS.",
-        "Projects": "Card de Ofertas / Baixa Automática CTC Portabilidade"
+        "Description": "Atuando alocado no Banco Panameticano em uma equipe ágil utilizando SCRUM, realizando melhorias e desenvolvendo Web Sites, Web Services, APIs. Utilizando .Net MVC, SQL SERVE, TFS e IIS."
       },
       {
         "Company": {
@@ -58,7 +57,16 @@
         },
         "Employment": "Analista Desenvolvedor Senior",
         "Duration": "Março 2016 - Jun 2019",
-        "Description": ""
+        "Description": "nicialmente entrei na equipe de projetos no seguimento de serviços aeroportuários um ERP da PROAIR uma das empresas do Grupo Protege, nos 2 anos que fiz parte da equipe foram entregues 7 projetos , Na atualidade faço parte da equipe de sustentação de sistemas em diversas tecnologias na área de vigilância patrimonial."
+      },
+      {
+        "Company": {
+          "Name": "Editora Atlas (Grupo Gen)",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Analista Desenvolvedor Pleno",
+        "Duration": "Fev 2012 - Fev 2016",
+        "Description": "nicialmente entrei na equipe de projetos no seguimento de serviços aeroportuários um ERP da PROAIR uma das empresas do Grupo Protege, nos 2 anos que fiz parte da equipe foram entregues 7 projetos , Na atualidade faço parte da equipe de sustentação de sistemas em diversas tecnologias na área de vigilância patrimonial."
       }
     ]
   },
@@ -152,9 +160,9 @@
         "Image": "assets/img/projects/personal-portfolio.png",
         "Description": "Desenvolvido portfólio pessoal para divulgar habilidades e projetos realizados.",
         "BtnSiteTitle": "Visitar",
-        "BtnSiteLink": "https://davidsouzasantos.github.io/dss-portfolio/",
+        "BtnSiteLink": "https://harleycoimbrasantos.github.io/dss-portfolio/",
         "BtnCodeTitle": "Codigo Fonte",
-        "BtnCodeLink": "https://github.com/DavidSouzaSantos/dss-portfolio"
+        "BtnCodeLink": "https://github.com/harleycoimbrasantos/dss-portfolio"
       }
     ]
   },
