@@ -109,19 +109,59 @@
         ]
       },
       {
-          "Company": {
-            "Name": "GRUPO UNIS",
-            "City": "São Paulo - SP"
-          },
-          "Employment": "Analista Desenvolvedor Pleno",
-          "Duration": "Jun 2011 - Fev 2012",
-          "Description": "Manutenção e melhorias de sistemas de controle patrimonial.",
-          "Technologies": [
-            "SQL SERVER",
-            "Delphi"
-          ]
-        }
-      ]
+        "Company": {
+          "Name": "GRUPO UNIS",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Analista Desenvolvedor Pleno",
+        "Duration": "Jun 2011 - Fev 2012",
+        "Description": "Manutenção e melhorias de sistemas de controle patrimonial.",
+        "Technologies": 
+        [
+          "SQL SERVER",
+          "Delphi"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "Quality Tecnologia e Sistemas",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Programador Pleno",
+        "Duration": "Maio 2010 - Jun 2011",
+        "Description": "Manutenção de ERP de controle acadêmico.",
+        "Technologies": [
+          "Firebird",
+          "Delphi"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "ALSOFT INFORMATICA",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Programador Pleno",
+        "Duration": "Jun 2009 - Maio 2011",
+        "Description": "Desenvolvimento e manutenção de sistemas ERP no seguimento varejista.",
+        "Technologies": [
+          "SQL SERVER",
+          "Delphi"
+        ]
+      },
+      {
+        "Company": {
+          "Name": "ENGRO INSTRUMENTOS ELETRICOS",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Estágio em Programação",
+        "Duration": "Abr 2008 - Jun 2009",
+        "Description": "Desenvolvimento e manutenção de sistemas ERP no seguimento varejista.",
+        "Technologies": [
+          "ORACLE",
+          "Delphi"
+        ]
+      }
+    ]
   },
   "Education": {
     "Title": "Educação",
