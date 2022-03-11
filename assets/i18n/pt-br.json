@@ -1,6 +1,6 @@
 {
   "Menu": {
-    "Title": "DSS Portfólio",
+    "Title": "HSC Portfólio",
     "About": "Sobre",
     "Experience": "Experiência",
     "Projects": "Projetos",
@@ -265,7 +265,7 @@
     "Items": [
       {
         "Title": "Portfólio Pessoal",
-        "Name": "DSS Portfólio",
+        "Name": "HCS Portfólio",
         "Image": "assets/img/projects/personal-portfolio.png",
         "Description": "Desenvolvido portfólio pessoal para divulgar habilidades e projetos realizados.",
         "BtnSiteTitle": "Visitar",
