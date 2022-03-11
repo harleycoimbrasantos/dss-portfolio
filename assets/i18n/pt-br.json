@@ -43,6 +43,24 @@
     "Jobs": [
       {
         "Company": {
+          "Name": "UNIDAS RENT A CAR",
+          "City": "São Paulo - SP"
+        },
+        "Employment": "Desenvolvedor Back-end .NET CORE",
+        "Duration": "SET 2021 - Atualmente",
+        "Description": "Atuando no principal projeto da empresa que é a migração do sistema frente de loja que está escrito em Genexus para .NET Core / Angular",
+        "Technologies": [
+          "C# / .NET CORE",
+          "SQL SERVER",
+          "GIT",
+          "DOCKER",
+          "AZURE DEVOPS",
+          "DDD",
+          "SCRUM"
+        ]
+      },
+      {
+        "Company": {
           "Name": "Função Sistemas / Banco Panamericano",
           "City": "São Paulo - SP"
         },
